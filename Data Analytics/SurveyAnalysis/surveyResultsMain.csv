@@ -1,0 +1,61 @@
+students who are living by them selves
+
+,6. How many people do you live with excluding yourself?,"7. If married, how many kids do you have?",8. Do you have any kids below 5 years old?,15. How many online MOOC classes have you registered for so far?,"16. Out of the MOOC classes that you have registered for, how many of them have you completed?","17. Out of the MOOC classes that you have registered for, how many of them have you dropped?"
+5,0,,No,1-5,1-5,1-5
+13,0,,No,20+,20+,6-10
+14,0,,No,1-5,1-5,1-5
+22,0,,No,1-5,1-5,1-5
+24,0,,No,1-5,1-5,1-5
+32,0,0,No,20+,20+,1-5
+39,0,,No,11-15,1-5,0
+41,0,,No,1-5,1-5,1-5
+48,0,,No,11-15,1-5,6-10
+78,0,0,No,0,0,0
+81,0,,No,6-10,6-10,1-5
+86,0,,No,1-5,1-5,1-5
+102,0,,No,6-10,6-10,0
+
+
+Looking at the survey data, if there are students living by themselves with no kids and family. Out of the registrants who took the class
+No of students who took class = 12
+Completed the class = 12
+
+Students who do not live by themselves, have <=2  kids, kids more than 5 years old VS retention
+,6. How many people do you live with excluding yourself?,"7. If married, how many kids do you have?",8. Do you have any kids below 5 years old?,15. How many online MOOC classes have you registered for so far?,"16. Out of the MOOC classes that you have registered for, how many of them have you completed?","17. Out of the MOOC classes that you have registered for, how many of them have you dropped?"
+2,2,2,No,11-15,6-10,1-5
+4,<=5,2,Yes,20+,20+,1-5
+7,<=5,3,No,11-15,11-15,0
+15,<=5,2,No,0,0,0
+16,5+,3+,Yes,16-20,1-5,1-5
+17,<=5,2,No,1-5,1-5,1-5
+25,1,2,No,16-20,11-15,1-5
+27,<=5,2,No,11-15,11-15,1-5
+28,<=5,3,Yes,6-10,6-10,0
+35,<=5,2,Yes,6-10,6-10,1-5
+43,<=5,2,No,6-10,6-10,0
+50,1,2,No,1-5,1-5,1-5
+54,<=5,3,Yes,1-5,1-5,0
+64,<=5,2,Yes,1-5,0,1-5
+65,<=5,2,No,20+,1-5,6-10
+70,<=5,2,No,20+,20+,1-5
+89,<=5,2,Yes,6-10,6-10,1-5
+93,5+,3,Yes,1-5,1-5,0
+101,2,2,No,16-20,11-15,11-15
+103,1,2,No,6-10,6-10,11-15
+
+
+Students who do not live by themselves, have more than 2 kids, kids more than 5 years old VS retention
+,6. How many people do you live with excluding yourself?,"7. If married, how many kids do you have?",8. Do you have any kids below 5 years old?,15. How many online MOOC classes have you registered for so far?,"16. Out of the MOOC classes that you have registered for, how many of them have you completed?","17. Out of the MOOC classes that you have registered for, how many of them have you dropped?"
+7,<=5,3,No,11-15,11-15,0
+16,5+,3+,Yes,16-20,1-5,1-5
+28,<=5,3,Yes,6-10,6-10,0
+54,<=5,3,Yes,1-5,1-5,0
+93,5+,3,Yes,1-5,1-5,0
+
+
+
+Part II
+10. How many hours on average do you work at your job?
+11. On a scale of 1-10, 1 how demanding is your job?
+12. On a scale 1 to 10, how social are you?
+13. How many times do you go out for social activities during the week?
